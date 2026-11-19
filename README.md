@@ -73,7 +73,7 @@ illustration, not the graded output.
 | `REPORT.md` | Full method, assumptions, backtest, 55-trophy table |
 | `README.md` | This file |
 | `LICENSE` | MIT |
-| `screenshots/` | 4K charts (local visual evidence, not part of the program) |
+| `screenshots/` | 4K charts (charts included in this repo) |
 
 No dependencies beyond Python 3.13 standard library. No network access at
 grade time; all calibration constants are baked into `main.py`.
